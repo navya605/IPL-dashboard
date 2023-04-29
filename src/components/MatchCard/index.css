@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.match-card-container {
+  border-radius: 10px;
+  border: none;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  width: 30%;
+  margin: 10px;
+}
+.match-card-logo {
+  height: 15%;
+  width: 15%;
+}
+.match-card-heading {
+  font-size: 25px;
+}
+.match-card-win {
+  color: #18ed66;
+}
+.match-card-lost {
+  color: #e31a1a;
+}

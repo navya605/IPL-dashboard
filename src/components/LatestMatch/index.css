@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.latest-match-top-container {
+  background-color: #0f172a;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  padding-top: 20px;
+  padding: 10px;
+  padding-right: 40px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.latest-match-top-heading1 {
+  font-size: 22px;
+}
+.latest-match-top-heading2 {
+  font-size: 18px;
+}
+.latest-match-logo {
+  height: 20%;
+  width: 20%;
+}
+.latest-match-bottom-container {
+  background-color: #0f172a;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding-bottom: 20px;
+  padding-top: 25px;
+  padding: 10px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2px;
+  margin-bottom: 15px;
+}
+.latest-match-bottom-heading {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 0;
+  padding: 0;
+}
+.latest-match-bottom-desc {
+  font-weight: 200;
+}
+.latest-match-sub-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  list-style: none;
+}

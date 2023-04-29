@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.team-matches-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+.match-img {
+  width: 100%;
+}
+.team-matches-RCB {
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d, #0f172a);
+}
+.team-matches-KKR {
+  background-image: linear-gradient(to bottom, #5755a7, #4f5db0, #0f172a);
+}
+.team-matches-KXP {
+  background-image: linear-gradient(to bottom, #a4261d, #d91c1f, #0f172a);
+}
+.team-matches-CSK {
+  background-image: linear-gradient(to bottom, #f7db00, #0f172a);
+}
+.team-matches-RR {
+  background-image: linear-gradient(to bottom, #13418b, #0f172a);
+}
+.team-matches-MI {
+  background-image: linear-gradient(to bottom, #4f5db0, #0f172a);
+}
+.team-matches-SH {
+  background-image: linear-gradient(to bottom, #f26d22, #a4261d, #0f172a);
+}
+.team-matches-DC {
+  background-image: linear-gradient(to bottom, #13418b, #0f172a);
+}
+.team-desc {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 12px;
+}
